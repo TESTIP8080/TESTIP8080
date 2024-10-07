@@ -1,0 +1,1 @@
+const CACHE_NAME="ao-analyzer-v1",urlsToCache=["/","/index.html","/bundle.js","/manifest.json","/favicon.ico","/logo192.png","/logo512.png"];self.addEventListener("install",(e=>{e.waitUntil(caches.open(CACHE_NAME).then((e=>e.addAll(urlsToCache))))})),self.addEventListener("fetch",(e=>{e.respondWith(caches.match(e.request).then((n=>n||fetch(e.request))))}));

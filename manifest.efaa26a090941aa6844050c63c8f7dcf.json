@@ -1,0 +1,42 @@
+{
+  "icons": [
+    {
+      "src": "/TESTIP8080/icons/icon_512x512.6867708602b6420bc65933d2aab673b9.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/TESTIP8080/icons/icon_384x384.8ca778bb54c9b64e018baad6ae9341bb.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/TESTIP8080/icons/icon_256x256.f2703251e3749ed977e8dc7c699461c5.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/TESTIP8080/icons/icon_192x192.bcf986c49184fa52a66bc330720f9a7e.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/TESTIP8080/icons/icon_128x128.07dcff549077ab6e2878eee749776a68.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/TESTIP8080/icons/icon_96x96.3c2ddbc14812aed01296da9fa9e20457.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "AO Development Analyzer",
+  "short_name": "AO Analyzer",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Ayil Okmotu Development Analyzer application",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
